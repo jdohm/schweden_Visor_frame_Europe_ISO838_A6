@@ -20,6 +20,7 @@ All Parts are forks of the originals by Erik Cederberg.
 * Set the `Max. Volumetric Speed` of the filament to set the real print speed. With a 0.4 mm nozzle, start at 8 mm³/s, increase to find the maximum of your printer. 17 mm³/s work for a E3D V6 with 0.8mm nozzle.
 * Set 0% infill
 * Set 0.87 mm extrusion width and set elephant foot compensation to 0. 
+* Layerhight must be 0.28 to work perfeklty.
 * If the extruder skips steps (loud clacking noise), lower the `Max. Volumetric Speed`. Or try to increase the nozzle temp, so the filament melts faster.
 * If you can't seperate the Parts afterwards probably lower the nozzle temp, and if neccasary the `Max. Volumetric Speed`.
 
